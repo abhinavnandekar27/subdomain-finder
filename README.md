@@ -1,5 +1,7 @@
 # Subdomain Finder Script
 
+![Screenshot 2024-10-16 002418](https://github.com/user-attachments/assets/99ab45eb-a980-4fec-b1b0-e72b96dbc8c0)
+
 This Bash script allows you to find subdomains of a specified domain by checking for their existence via DNS resolution. The script also retrieves the IP address and server information for each found subdomain.
 
 ## Features
@@ -24,5 +26,3 @@ To run the script, open a terminal and use the following command:
 bash
 `````````````````````````````````````
 bash subdomain.sh <domain> <wordlist>
-
-![Screenshot 2024-10-16 002418](https://github.com/user-attachments/assets/99ab45eb-a980-4fec-b1b0-e72b96dbc8c0)
